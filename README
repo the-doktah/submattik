@@ -1,0 +1,17 @@
+Career Crawler
+
+Coded by: --NAME CENSORED--
+
+This software searches and indexes job postings across LinkedIn, Workopolous, and Monster; You can review the postings by double clicking them, right click to assign a "Cover Letter Style" from a previous application, or click "New Style" at the bottom of the window to create a new custom Cover Letter Style (style refers to the main body paragraph of the Cover Letter... the rest is filled in with data scraped from the postings webpage. 
+
+More info will be updated here as time progresses; this is by no means a legitimate README, and this software has not been finished yet!
+
+CURRENT FUNCTIONALITY:
+
+	- Fully functional for Monster.ca job postings
+	
+TO DO:
+
+	- Still need to implement Adaptor classes for Workopolous and LinkedIn... coming very soon.
+	
+

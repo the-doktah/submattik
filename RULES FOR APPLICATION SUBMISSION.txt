@@ -1,0 +1,10 @@
+innerText: "Upload a new resume - Tab undefined↵↵ Select a resume (.doc,.docx,.pdf,.rtf, or .txt, 500KB or smaller.)↵↵" <---UPLOAD RESUME: tabs1[0].innerText() Javascript variable
+
+<div id="ApplyFormFull" class="clearfix" style="display:none;"> <=== NO RESUME...
+
+<div id="ApplyFormFull" class="clearfix" style="display:block;"> <=== RESUME?
+
+<div id="jvResumeUseCurrent" style="float:left;display:block;"> <=== NO RESUME ****
+
+
+
